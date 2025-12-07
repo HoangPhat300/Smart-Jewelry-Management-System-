@@ -1,0 +1,11 @@
+{
+  "name": "smart-jewelry-backend",
+  "version": "0.0.1",
+  "description": "Microservices for Jewelry Management",
+  "dependencies": {
+    "@nestjs/common": "^9.0.0",
+    "@nestjs/core": "^9.0.0",
+    "typeorm": "^0.3.0",
+    "pg": "^8.4.0"
+  }
+}
